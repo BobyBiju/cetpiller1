@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174435252867",
+    "project_id": "joliveno",
+    "storage_bucket": "joliveno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174435252867:android:23019b2b94b587d87879b6",
+        "android_client_info": {
+          "package_name": "com.example.joli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174435252867-2939h17hk60oa2o8mlk3n31mqkla08ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Otsj9V60h3xS05OfUvjw8CPqAKzDeeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174435252867-2939h17hk60oa2o8mlk3n31mqkla08ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
